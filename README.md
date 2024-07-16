@@ -1,7 +1,7 @@
 
 ## Deploy traffic-manager on GKE
 
-intro doc: https://starquest.feishu.cn/docx/It8rdMpSSodQYrxhIWwcZYz1nse
+Guide: https://starquest.feishu.cn/docx/It8rdMpSSodQYrxhIWwcZYz1nse
 
 0. first, install telepresence on Mac
 
